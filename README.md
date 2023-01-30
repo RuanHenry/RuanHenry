@@ -1,4 +1,4 @@
-<h1 align="center">Salut 👋, Je suis Henry</h1>
+<h1 align="center">Salut 👋 Je suis Henry</h1>
 <h3 align="center">Etudiant en M1 Informatique à Metz, France</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ruanhenry&label=Profile%20views&color=0e75b6&style=flat" alt="ruanhenry" /> </p>
