@@ -1,5 +1,7 @@
 <h1 align="center">Salut 👋 Je suis Henry</h1>
-<h3 align="center">Etudiant en M1 Informatique à Metz, France</h3>
+<h3 align="center">Je suis un étudiant en M1 Informatique à l’UFR MIM de Metz.
+Je suis actuellement à la recherche d'une alternance en contrat d'apprentissage pour ma deuxième année de Master Informatique, orientation Sécurité des Systèmes d'Information ou dans une moindre mesure en Génie Informatique pour l'année scolaire 2023-2024, je suis à votre disposition pour plus d'informations.
+</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ruanhenry&label=Profile%20views&color=0e75b6&style=flat" alt="ruanhenry" /> </p>
 
