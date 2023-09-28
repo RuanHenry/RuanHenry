@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ruanhenry&label=Profile%20views&color=0e75b6&style=flat" alt="ruanhenry" /> </p>
 
-- 🌱 Je suis en train d'apprendre **.NET et Python !**
+- 🌱 Je suis en train de m'entraîner dans le domaine de la cybersécurité via TryHackMe**
 
 - 📫 Vous pouvez me contacter à cette adresse : **Henry-R@hotmail.fr**
 
