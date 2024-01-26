@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ruanhenry&label=Profile%20views&color=0e75b6&style=flat" alt="ruanhenry" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ruanhenry" alt="ruanhenry" /></a> </p>
-
 - 🌱 I am currently learning **cybersecurity**
 
 - 📫 You can contact me with this address : **Henry-R@hotmail.fr**
