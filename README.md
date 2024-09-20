@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ruanhenry&label=Profile%20views&color=0e75b6&style=flat" alt="ruanhenry" /> </p>
 
-- 🌱 I am currently learning **cybersecurity**
+- 🌱 I am currently learning **cybersecurity** and working at efluid SAS in Metz as a cybersecurity engineer.
 
 - 📫 You can contact me with this address : **Henry-R@hotmail.fr**
 
